@@ -21,7 +21,7 @@ using Sass: run `sass src\sass\style.scss src\sass\style.css` in command line to
 
 ## Link to Repo on Github
 
-https://github.com/tascott/project-2
+https://github.com/essexgit/project-2
 
 
 ## Link to Deployment using Netlify
